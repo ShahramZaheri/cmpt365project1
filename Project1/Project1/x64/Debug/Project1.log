@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\Users\shahr\Desktop\Project1\Project1\Source.cpp(95,23): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\shahr\Desktop\Project1\Project1\Source.cpp(112,26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\shahr\Desktop\Project1\Project1\Source.cpp(188,76): warning C4244: 'argument': conversion from '_Ty1' to 'const int', possible loss of data
+          with
+          [
+              _Ty1=const __int64
+          ]
+C:\Users\shahr\Desktop\Project1\Project1\Source.cpp(224,130): warning C4244: '=': conversion from '__int64' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  Project1.vcxproj -> C:\Users\shahr\Desktop\Project1\x64\Debug\Project1.exe
